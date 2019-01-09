@@ -13,7 +13,7 @@ public class ConcatTwoString {
 		System.out.println("After concat :"+s1 + " "+s2);
 		
 		System.out.println(s1.concat(s2));
-		System.out.println("");
+		System.out.println("    "  );
 		
 		
 	}
